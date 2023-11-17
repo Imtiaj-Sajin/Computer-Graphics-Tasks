@@ -1,1 +1,1 @@
-![image](https://github.com/Imtiaj-Sajin/OpenGL-Tasks/assets/100506477/0dfdd819-309e-4288-a76a-e3466b07f7a8)
+![image](https://github.com/Imtiaj-Sajin/OpenGL-Tasks/assets/100506477/a6ba5884-4a8f-4a9a-a00d-b868eb8dc719)
